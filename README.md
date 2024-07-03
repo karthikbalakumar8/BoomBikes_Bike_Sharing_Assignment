@@ -9,7 +9,7 @@ You are required to model the demand for shared bikes with the available indepen
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#Contact)
 
 
 ## General Information
@@ -19,7 +19,9 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 The company wants to know:
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
-Technologies Used
+
+
+## Technologies Used
 numpy - version 1.20.3
 pandas - version 1.3.4
 matplotlib - version 3.4.3
