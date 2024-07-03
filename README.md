@@ -8,7 +8,7 @@ You are required to model the demand for shared bikes with the available indepen
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Conclusion](#conclusion)
 * [Contact](#Contact)
 
 
